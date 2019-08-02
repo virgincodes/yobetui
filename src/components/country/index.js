@@ -7,7 +7,7 @@ import Axios from 'axios'
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css"
 import Loader from 'react-loader-spinner'
 import spin from './index.module.css'
-
+const api = 'https://yobetback.herokuapp.com/api/'
 
 
 function  App  ()  {
@@ -48,7 +48,7 @@ function  App  ()  {
       const fetchData = async () => {
        
       const query = {
-        url:'http://localhost:8000/api/all',
+        url:`${api}/all`,
         type:'get'
       }
       let result  = await Axios(query)
