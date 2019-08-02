@@ -1,0 +1,22 @@
+.spinner{
+    height: 70vh;
+    text-align: -webkit-center;
+}
+
+.spinner div{
+    text-align: -webkit-center;
+}
+
+.page{
+    text-align: center
+}
+
+.page h5{
+    margin-top: 18px;
+    font-size: 30px;
+    color: white;
+    background: #0069d9;
+    width: fit-content;
+    padding: 12px;
+    border-radius: 10px;
+}
