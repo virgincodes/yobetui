@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav'
 export default function index() {
     return (
         <div className={style.app}>
-            <p>Hi my name is somto , and this is my hopefully not under engineered fill stack developer assesment </p> <br />
+            <p>Hi, my name is somto, and this is my hopefully not under engineered full stack developer assesment </p> <br />
             <p> Click on the buttons below to take you to the pages</p>
 
             <Nav >
