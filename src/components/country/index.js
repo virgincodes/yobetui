@@ -7,7 +7,7 @@ import Axios from 'axios'
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css"
 import Loader from 'react-loader-spinner'
 import spin from './index.module.css'
-const api = 'https://yobetback.herokuapp.com/api/'
+const api = 'https://yobetback.herokuapp.com/api/country'
 
 
 function  App  ()  {
