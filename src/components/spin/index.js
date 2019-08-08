@@ -16,8 +16,8 @@ let fruitDick = {
 
 let start = []
 let wins = []
-// const api = 'https://yobetback.herokuapp.com/api/'
-const api = 'http://localhost:8000/api/'
+// const api = 'https://yobetback.herokuapp.com/api/game/'
+const api = 'http://localhost:8000/api/game/'
 
 export default () => {
     const SLOTS_PER_REEL = 12;

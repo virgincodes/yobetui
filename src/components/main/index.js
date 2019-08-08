@@ -18,6 +18,10 @@ export default function index() {
                     <Nav.Link  href="/casino">Slot Game</Nav.Link>
                 </Nav.Item>
                  
+                <Nav.Item>
+                    <Nav.Link  href="/multicountries">Multy country search</Nav.Link>
+                </Nav.Item>
+                 
             </Nav>
 
             <Row>
