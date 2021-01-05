@@ -7,7 +7,7 @@
     "@progress/kendo-react-dropdowns": "^3.2.2",
     "@progress/kendo-react-grid": "^3.2.2",
     "@progress/kendo-react-intl": "^3.2.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "multi-select-react": "^0.1.8",
